@@ -1,1 +1,1 @@
-# aud-li
+Hello! This repo archives my school projects.
