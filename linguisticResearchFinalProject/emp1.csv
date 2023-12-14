@@ -1,0 +1,10 @@
+response,native_lang,age,speaks_lang_num,native_prof,en_prof
+1,zh,21-25,2,high,intermediate
+2,zh,21-25,2,high,high
+3,zh,26-30,3,high,intermediate
+4,fa,older than 30,2,high,high
+5,fa,21-25,1,basic,not well
+6,fa,older than 30,2,high,high
+7,pl,21-25,2,high ,high
+8,pl,21-25,3,high ,high
+9,pl,21-25,2,intermediate,intermediate
